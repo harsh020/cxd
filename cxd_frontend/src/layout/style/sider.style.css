@@ -1,0 +1,23 @@
+@import '~antd/dist/antd.css';
+
+/* .logo {
+    height: 32px;
+    width: 150px;
+    margin: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    background: rgb(128, 128, 128, 0.4);
+} */
+
+.user-avatar {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.user-avatar-details {
+    line-height: 15px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
